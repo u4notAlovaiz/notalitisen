@@ -16,5 +16,11 @@
         "key": "RAiDER",
         "expirydate": "15-06-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a4aa30416ab37000",
+        "key": "Arman",
+        "expirydate": "15-06-9999",
+        "Allowoffline": false
     }
 ]
