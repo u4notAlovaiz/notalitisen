@@ -34,5 +34,11 @@
         "key": "Abol",
         "expirydate": "25-02-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "47fa07a69b9e4384",
+        "key": "Esikoni",
+        "expirydate": "27-02-2026",
+        "Allowoffline": false
     }
 ]
