@@ -28,5 +28,11 @@
         "key": "Yuo4Yuo",
         "expirydate": "25-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a3547ca932f835a1",
+        "key": "Abol",
+        "expirydate": "25-02-9999",
+        "Allowoffline": false
     }
 ]
