@@ -40,5 +40,11 @@
         "key": "Esikoni",
         "expirydate": "27-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "67e952d7c58dfa75",
+        "key": "Alimoersae",
+        "expirydate": "28-02-2026",
+        "Allowoffline": false
     }
 ]
