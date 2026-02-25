@@ -24,27 +24,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "91874921d2f0621f",
-        "key": "Yuo4Yuo",
-        "expirydate": "25-02-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "a3547ca932f835a1",
         "key": "Abol",
         "expirydate": "25-02-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "47fa07a69b9e4384",
-        "key": "Esikoni",
-        "expirydate": "27-02-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "67e952d7c58dfa75",
-        "key": "Alimoersae",
-        "expirydate": "28-02-2026",
         "Allowoffline": false
     }
 ]
