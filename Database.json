@@ -18,26 +18,14 @@
         "Allowoffline": false
     },
     {
-        "device_id": "a4aa30416ab37000",
-        "key": "Arman",
-        "expirydate": "15-06-9999",
-        "Allowoffline": false
-    },
-    {
         "device_id": "a3547ca932f835a1",
         "key": "Abol",
         "expirydate": "25-02-9999",
         "Allowoffline": false
     },
     {
-        "device_id": "1d6f688d49dcf2ef",
-        "key": "RAiDER",
-        "expirydate": "25-02-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "54d62dc7d3a11ae8",
-        "key": "RAiDERE",
+        "device_id": "7abf85ae2d23c239",
+        "key": "Arman",
         "expirydate": "25-02-9999",
         "Allowoffline": false
     }
