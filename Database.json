@@ -28,5 +28,11 @@
         "key": "Arman",
         "expirydate": "25-02-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e1387d6c90cc1fdf",
+        "key": "IthExtama",
+        "expirydate": "12-03-2026",
+        "Allowoffline": false
     }
 ]
